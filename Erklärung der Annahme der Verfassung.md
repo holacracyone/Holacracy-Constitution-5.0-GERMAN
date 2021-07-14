@@ -1,7 +1,7 @@
 Erklärung der Annahme der Verfassung
 =================================
 
-Der*die unten genannten Ratifizierende*n nehmen hiermit die folgenden Sektionen der Holacracy Verfassung v5.0 als Rahmen für die Governance und den operativen Betrieb für \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (die “Organisation”) an:
+Der*die unten genannten Ratifizierende*n nehmen hiermit die folgenden Sektionen der Holacracy Verfassung v5.0 als Rahmen für die Governance und den operativen Betrieb für  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (die “Organisation”) an:
 
 #### [ X ] Artikel 1: Organisationsstruktur
 
@@ -26,9 +26,9 @@ Der*die unten genannten Ratifizierende*n nehmen hiermit die folgenden Sektionen 
 
 ---
 
-**Angenommen am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ durch:
+**Angenommen am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ durch:**
 
-*Unterschriften der*des Ratifizierenden*
+*Unterschriften der\*des Ratifizierenden*
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -50,10 +50,9 @@ Titel:
 
 ---
 
-**Die Partner*innen der Organisation, die hier unterschrieben haben, stimmen hiermit zu, sich nach besten Wissen und Gewissen an die Regeln der Verfassung zu halten, die von der Organisation angenommen wurde.
-**
+**Die Partner\*innen der Organisation, die hier unterschrieben haben, stimmen hiermit zu, sich nach besten Wissen und Gewissen an die Regeln der Verfassung zu halten, die von der Organisation angenommen wurde.**
 
-*Unterschriften der Partner*innen*
+*Unterschriften der Partner\*innen*
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
