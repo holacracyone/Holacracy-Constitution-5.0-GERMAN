@@ -1,38 +1,38 @@
-# Introduction: Holacracy® Constitution
+# Einführung: Holacracy® Verfassung
+### Was ist die Holacracy Verfassung?
+Die Holacracy Verfassung dokumentiert die Kernregeln, Strukturen und Prozesse des Holacracy Betriebssystems zur Steuerung und zum Management einer Organisation. Sie bildet die erforderliche Grundlage für die Holacracy Praxis, indem sie den angestrebten Übergang der Macht in konkreten und dokumentierten “Spielregeln” verankert.
 
-### What is the Holacracy Constitution?
+### Wie soll die Holacracy Verfassung benutzt werden?
+Die Verfassung soll durch diejenige Erklärung oder Vereinbarung referenziert werden, welche die Entscheidung festhält, sich mithilfe des Holacracy Betriebssystems zu organisieren. Das kann ein formales Set von rechtlichen Statuten oder eine ähnliche Betriebsvereinbarung sein, oder ein einfacher Vorstandsbeschluss oder eine Erklärung des Geschäftsführers, ähnlich <a href="https://github.com/holacracyone/Holacracy-Constitution-5.0-GERMAN/blob/main/Erkl%C3%A4rung%20der%20Annahme%20der%20Verfassung.md" target="_blank">der hier angehängten</a>.
 
-The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy framework for governing and managing an organization. It provides the foundation needed for Holacracy practice, by anchoring the target power shift in concrete and documented “rules of the game”.
+### Was die Holacracy Verfassung nicht ist
+Die Holacracy Verfassung ist **kein vollständiges Set von rechtlichen Statuten oder eine formale Betriebsvereinbarung** (HolacracyOne veröffentlicht an anderer Stelle seine eigene Betriebsvereinbarung als ein Beispiel für ein rechtlich regulierendes Dokument, das diese Verfassung referenziert und inkorporiert.)
 
-### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy framework. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">sample one attached here</a>.
+Die Verfassung ist ebensowenig ein Handbuch oder eine Leitfaden zum Erlernen des Holacracy Betriebssystems. Wie ein Regelbuch im Sport kann es manchmal als eine entscheidende Referenz dienen, doch sie zu lesen wird dich nicht lehren, wie das Spiel zu spielen ist. Falls du nach einer Einführung suchst, besuche die <a href="http://holacracy.org" target="_blank">Website</a> von HolacracyOne.
 
-### What the Holacracy Constitution isn’t
-The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
+### Rechtlicher Haftungsausschluss
+HolacracyOne ist keine Anwaltskanzlei und die Verfassung sollte nicht als ein rechtliches Dokument oder rechtliche Beratung ausgelegt werden. Berate dich mit deinem Anwalt in Bezug auf deine spezifische Situation, bevor du diese Verfassung in irgendeiner rechtlichen Funktion oder für irgendwelche rechtlichen Bedürfnisse verwendest. Dieses Dokument wird bereitgestellt so wie es ist, ohne jegliche Garantie oder Bedingung.
+HolacracyOne leistet keinerlei Gewähr für Qualität, Richtigkeit, Aktualität, Vollständigkeit, Tauglichkeit, Nutzungseignung oder Zweckmäßigkeit des Dokuments. HolacracyOne und seine Vertreter und Mitglieder sind in dem maximal gesetzlich zulässigen Maß nicht haftbar für Schäden jedweder Art, die durch die Nutzung dieses Dokumentes entstehen.
 
-The Constitution is also **not an instruction manual or a guidebook** for learning to use the Holacracy framework. Like the rulebook for a sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game. If you're looking for an introduction, check out HolacracyOne's <a href="http://holacracy.org" target="_blank">website</a>.
+### Lizensierung und Gebrauch
+Wie Linux®, Wikipedia®, und Java® ist Holacracy® ein eingetragenes Markenzeichen; in diesem Fall von HolacracyOne LLC. Und wie andere Verwalter offener Plattformen, zielt HolacracyOne darauf ab, die Integrität seiner Marke und das, was sie repräsentiert, zu bewahren. Also laden wir dich ein, deine eigenen abgeleiteten Werke der Holacracy® Verfassung zu erschaffen und zu teilen, durch die Bedingungen unserer Open-Sourc CC BY-SA 4.0 Lizenz, und darauf zu verweisen, dass dein Werk von der offiziellen Holacracy Verfassung abgeleitet ist – bitte füge einen Link zu http://holacracy.org/constitution hinzu. Jenseits dieser Referenz darfst du dein abgeleitetes Werk jedoch nicht mit der Holacracy Marke kennzeichnen, um Verwirrung zwischen deiner Version und dem offiziellen Holacracy Dokument zu vermeiden. Falls du irgendwelche Fragen hast, <a href="http://www.holacracy.org/contact/" target="_blank">kontaktiere bitte HolacracyOne</a>!
 
-### Legal Disclaimer
-HolacracyOne is not a law firm, and the Constitution should not be construed as a legal document or legal advice. Consult with your attorney about your specific situation before using the Constitution in any legal capacity or for any legal needs. This document is provided "as-is", without warranty or condition of any kind whatsoever. HolacracyOne does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. To the maximum extent provided by law, HolacracyOne and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
 
-### Licensing and Usage
-Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC. And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents. So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution - please include a link to http://holacracy.org/constitution. However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document. If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact HolacracyOne</a>!
+### Beitragende
+Bis zu Version 4.0 wurde die Holacracy Verfassung von Brian Robertson und HolacracyOne entwickelt.
 
-### Contributors
-Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
+Beitragende zu v4.1 waren Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen und Jeffrey Anthony.
 
-Contributors to v4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
-
-For a list of contributors to v5.0, please see the history of submissions to the Constitution's GitHub repo and issue database.
-
----
-
-#### For More Information or Support with the Holacracy Framework: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
+Für eine Liste der Beitragenden zu v5.0 siehe die Geschichte der Einreichungen zum GitHub Repository und zur Themen Datenbank der Verfassung.
 
 ---
 
-*_The Holacracy Constitution is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+#### Für weitere Informationen oder Unterstützung mit dem Holacracy Framework: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
+---
+
+*_Die Holacracy Verfassung ist lizensiert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International Lizenz</a>._*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 ---
