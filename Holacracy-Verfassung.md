@@ -510,7 +510,7 @@ Diese Befugnisse enden, sobald entsprechend der Einschätzung des\*der Prozessmo
 Falls der Kreis, der sich im Prozessversagen befindet, keinen Super-Kreis hat, dann gehen stattdessen alle obigen Befugnisse auf seine\*n eigene\*n Prozessmoderator\*in über.
 
 
-#### Eskalation eines Prozessversagens
+#### 5.5.3 Eskalation eines Prozessversagens
 
 Ein Prozessversagen in einem Kreis wird nicht automatisch als Prozessversagen seines Super-Kreises betrachtet. Wenn es jedoch eine unzumutbar lange Zeit ungelöst bleibt, dann wird auch der Super-Kreis als in einem Prozessversagen befindlich betrachtet.
 
