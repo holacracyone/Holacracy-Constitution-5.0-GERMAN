@@ -113,10 +113,6 @@ Niemand anderes als ein\*e Kreis-Lead darf innerhalb des Kreises eine Rolle zuwe
 
 #### 1.4.2 Unbesetzte Rollen vertreten
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
-
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
-
 Wann immer eine Rolle unbesetzt ist, gilt jede\*r Kreis-Lead automatisch auch als ein*e Rollen-Lead der unbesetzten Rolle.
 
 Wenn eine Rolle nur durch Personen ausgeübt wird, die keine Partner\*innen der Organisation sind, dann wird jede\*r Kreis-Lead automatisch auch als ein\*e Rollen-Lead dieser Rolle betrachtet. Diese Standardzuweisung gilt jedoch nur in dem Maße, in dem die Nicht-Partner\*innen die relevanten Verantwortlichkeiten und Pflichten nicht aktiv ausüben, die ein\*e Partner\*in halten würde.
@@ -433,16 +429,6 @@ Jedes Kreismitglied, das ein Governance-Meeting ganz oder teilweise versäumt, z
 
 #### 5.4.3 Meeting Prozess
 
-The Facilitator must use the following process for Governance Meetings:
-
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
-
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
-
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
-
 Der\*Die Prozessmoderator\*in muss für Governance Meetings den folgenden Prozess verwenden:
 
 - **(a) Check-in Runde**: Alle Teilnehmenden äußern der Reihe nach ihr aktuelles Befinden, oder teilen einen anderen Wortbeitrag zur Eröffnung des Meetings. Reaktionen sind nicht erlaubt.
@@ -486,17 +472,6 @@ Der\*Die Prozessmoderator\*in eines Kreises darf außerdem ein Prozessversagen i
 
 
 #### 5.5.2 Prozesswiederherstellung
-
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
-
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
-
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
-
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
 
 Wann immer eine befugte Partei ein Prozessversagen in einem Kreis erklärt, geschieht das Folgende:
 
