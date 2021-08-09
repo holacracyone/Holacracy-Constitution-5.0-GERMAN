@@ -135,7 +135,7 @@ Ein Kreis darf seiner Kreis-Lead Rolle Verantwortlichkeiten oder Domänen hinzuf
 
 Ein Kreis darf jegliche Verantwortlichkeiten, Domänen, Befugnisse oder Funktionen seiner eigenen Kreis-Lead Rolle entfernen. Er kann dies tun, indem er sie entweder einer anderen Rolle im Kreis überträgt, oder indem er eine alternative Weise definiert, um diese auszudrücken. Dadurch wird das betreffende Element automatisch aus der Kreis-Lead Rolle des Kreises entfernt, solange die Delegation [oder Alternative] fortbesteht.
 
-## Article 2: Regeln der Zusammenarbeit
+## Artikel 2: Regeln der Zusammenarbeit
 
 ### 2.1 Pflicht zur Transparenz
 
@@ -176,7 +176,7 @@ Als Partner\*in darfst du aufgrund deiner eigenen persönlichen Präferenzen, od
 
 Als Partner\*in hast du die Pflicht, dich in deinem Verhalten nach allen auf diese Weise geschlossenen, schriftlich festgehaltenen, Beziehungsvereinbarungen zu richten. Alle, die ein Meeting oder einen Prozess moderieren, dürfen diese Beziehungsvereinbarungen in diesem Meeting oder Prozess ebenfalls geltend machen, solange sie nicht im Widerspruch zu dieser Verfassung stehen.
 
-## Article 3: Tactical Meetings
+## Artikel 3: Tactical Meetings
 
 Jede\*r Partner\*in darf ein ***“Tactical Meeting”*** einberufen, um Partner dabei zu unterstützen einander in ihren Verantwortlichkeiten und Pflichten in Anspruch zu nehmen. Zusätzlich ist die Rolle Kreis-Sekretär\*in jedes Kreises dafür zuständig, reguläre Tactical Meetings für den Kreis anzusetzen.
 
@@ -201,7 +201,7 @@ Wenn keine Richtlinie etwas anderes besagt, muss die Person, die das Meeting mod
 Eine Richtlinie eines Kreises darf einen alternativen Prozess definieren oder diesen Standardprozess für Tactical Meetings, die von jeder der Rollen des Kreises einberufen werden können, anpassen.
 
 
-## Article 4: Verteilte Befugnis
+## Artikel 4: Verteilte Befugnis
 
 Als Rollen-Lead hast du die Befugnis, alles zu tun und jede Entscheidung zu treffen, die den Sinn und Zweck und die Verantwortlichkeiten deiner Rolle zum Ausdruck bringt, solange du nicht gegen eine in dieser Verfassung definierte Regel verstößt. Du darfst dabei deine möglichen Aktivitäten hinsichtlich ihres relativen Wertes für die Organisation nach deinem eigenen, begründeten Urteil priorisieren und auswählen.
 
@@ -266,7 +266,7 @@ Nachdem du individuelle Initiative ergriffen hast, musst du deine Handlung gegen
 
 Du musst die Kommunikation und Wiederherstellung, die in diesem Abschnitt gefordert werden, gegenüber deiner gewöhnlichen Arbeit vorziehen. Der\*Die Kreis-Lead eines Kreises, der alle von deinen Handlungen betroffenen Rollen enthält, darf diese standardmäßige Priorisierung jedoch ändern.
 
-## Article 5: Governance Prozess
+## Artikel 5: Governance Prozess
 
 Die Änderung der Governance eines Kreises erfordert die Anwendung des hier definierten ***"Governance-Prozesses"***.
 
