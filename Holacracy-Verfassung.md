@@ -52,7 +52,7 @@ Du bist dafür verantwortlich, alle Projekte und nächsten Schritte für deine R
 
 #### 1.2.5 Nächste Schritte ausführen
 
-Wann immer du Zeit zur Verfügung hast, in einer Rolle zu agieren, bist du dafür verantwortlich, die nächsten Schritte zu erwägen, die du tun könntest, und diejenigen auszuführen, die der Organisation den größten Mehrwert bringen würden. the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+Wann immer du Zeit zur Verfügung hast, in einer Rolle zu agieren, bist du dafür verantwortlich, die nächsten Schritte zu erwägen, die du tun könntest, und diejenigen auszuführen, die der Organisation den größten Mehrwert bringen würden.
 
 ### 1.3 Kreise
 
