@@ -6,9 +6,9 @@ Die ***"Ratifizierenden"*** nehmen hiermit diese ***"Verfassung"*** als formale 
 
 Jegliche existierenden Richtlinien und Systeme, die wirksam waren, bevor diese Verfassung angenommen wurde, bleiben nach der Annahme in vollem Umfang in Kraft, sie dürfen jedoch nicht erweitert oder modifiziert werden, außer durch die Befugnisse und Prozesse die in dieser Verfassung definiert sind. Diese ehemaligen Richtlinien und Systeme verlieren ferner alles Gewicht und alle Befugnis, sobald durch die Prozesse dieser Verfassung etwas erschaffen wird, das sie ersetzt oder ihnen widerspricht.
 
-Die Organisation darf zusätzlich zu den Ratifizierenden andere ***“Partner\*innen”*** nominieren, um bei ihrer Governance und ihrem operativen Geschäft zu unterstützen, vorausgesetzt, dass jede\*r dieser Partner\*innen ebenfalls zugestimmt hat, alle relevanten Bedingungen dieser Verfassung zu befolgen. Innerhalb dieser Einschränkung darf die Organisation definieren, wie sie Partnerstatus gewährt oder entzieht, sofern es von den Ratifizierenden nicht anders definiert wurde, und die Ratifizierenden dürfen die initialen Partner für die Organisation definieren.
+Die Organisation darf zusätzlich zu den Ratifizierenden andere ***“Partner\*innen”*** nominieren, um bei ihrer Governance und ihrem operativen Geschäft zu unterstützen, vorausgesetzt, dass jede\*r dieser Partner\*innen ebenfalls zugestimmt hat, alle relevanten Bedingungen dieser Verfassung zu befolgen. Innerhalb dieser Einschränkung darf die Organisation definieren, wie sie Partner\*innenstatus gewährt oder entzieht, sofern es von den Ratifizierenden nicht anders definiert wurde, und die Ratifizierenden dürfen die initialen Partner\*innen für die Organisation definieren.
 
-Jede\*r Partner\*in darf sich in vollem Maße auf die Befugnisse verlassen, die durch diese Verfassung gewährt werden, in dem vollen Maße, wie die Ratifizierenden solche Befugnisse innehatten, bevor sie sie angenommen haben. Alle Verantwortlichkeiten und Beschränkungen eines*r Partners*in stammen aus dieser Verfassung und den Ergebnissen ihrer Prozesse, sowie aus jeglichen rechtlichen Pflichten, die der\*die Partner\*in gegenüber der Organisation hat, solange er\*sie in ihrem Auftrag handelt. Implizite Erwartungen, Beschränkungen oder Gebote, die außerhalb der Befugnis, die durch diese Verfassung gewährt wird, erlassen wurden, haben keinerlei Macht über eine\*n Partner\*in.
+Jede\*r Partner\*in darf sich in vollem Maße auf die Befugnisse verlassen, die durch diese Verfassung gewährt werden, in dem vollen Maße, wie die Ratifizierenden solche Befugnisse innehatten, bevor sie sie angenommen haben. Alle Verantwortlichkeiten und Beschränkungen eines Partners oder einer Partnerin stammen aus dieser Verfassung und den Ergebnissen ihrer Prozesse, sowie aus jeglichen rechtlichen Pflichten, die der\*die Partner\*in gegenüber der Organisation hat, solange er\*sie in ihrem Auftrag handelt. Implizite Erwartungen, Beschränkungen oder Gebote, die außerhalb der Befugnis, die durch diese Verfassung gewährt wird, erlassen wurden, haben keinerlei Macht über eine\*n Partner\*in.
 
 
 ## Artikel 1: Organisationsstruktur
@@ -98,14 +98,14 @@ wurden.
 
 ### 1.4 Kreis-Leads
 
-Als ein\*e Rollen-Lead für eine Rolle zu dienen, bedeutet zusätzlich als ein*e ***“Kreis-Lead”*** [Circle Lead] in dem in dieser Rolle enthaltenen [inneren] Kreis zu dienen, und somit die ***"Kreis-Lead Rolle"*** innerhalb dieses Kreises auszuüben. Die Kreis-Lead Rolle hält den gesamten Sinn und Zweck dieser breiteren Rolle, sowie alle Verantwortlichkeiten dieser Rolle, in dem Maße, wie sich nicht durch Rollen oder Prozesse innerhalb des Kreises abgedeckt sind.
+Als ein\*e Rollen-Lead für eine Rolle zu dienen, bedeutet zusätzlich als ein*e ***“Kreis-Lead”*** [Circle Lead] in dem in dieser Rolle enthaltenen [inneren] Kreis zu dienen, und somit die ***"Kreis-Lead Rolle"*** innerhalb dieses Kreises auszuüben. Die Kreis-Lead Rolle hält den gesamten Sinn und Zweck dieser breiteren Rolle, sowie alle Verantwortlichkeiten dieser Rolle, in dem Maße, wie sie nicht durch Rollen oder Prozesse innerhalb des Kreises abgedeckt sind.
 
 Der Anker-Kreis hat keine Kreis-Leads, sofern keine Richtlinie des Kreises etwas anderes besagt.
 
 
 #### 1.4.1 Rollenzuweisung
 
-Ein\*e Kreis-Lead kontrolliert die Rollenzuweisungs-Domäne und darf jeder Rolle innerhalb des Kreises jeder Person zuweisen, die gewillt ist, sie auszuüben, inklusive mehrerer Personen gleichzeitig. Jede Person, die so zugewiesen wurde, darf später aus der Rolle zurücktreten, sofern sie nicht einer anderen Regelung zugestimmt hat. Ein*e Kreis-Lead darf eine Rollenzuweisung für jegliche Rolle innerhalb des Kreises ebenfalls jederzeit zurücknehmen.
+Ein\*e Kreis-Lead kontrolliert die Rollenzuweisungs-Domäne und darf jede Rolle innerhalb des Kreises jeder Person zuweisen, die gewillt ist, sie auszuüben, inklusive mehrerer Personen gleichzeitig. Jede Person, die so zugewiesen wurde, darf später aus der Rolle zurücktreten, sofern sie nicht einer anderen Regelung zugestimmt hat. Ein*e Kreis-Lead darf eine Rollenzuweisung für jegliche Rolle innerhalb des Kreises ebenfalls jederzeit zurücknehmen.
 
 Ein*e Kreis-Lead darf eine Zuweisung weiter auf einen spezifischen Bereich oder Kontext fokussieren. Dafür muss innerhalb dieses Kontexts die gesamte Rollendefinition immer noch relevant sein. Falls ein Fokus gesetzt wird, verhält sich jeder Zuweisungsfokus wie eine völlig separate Rolle. Der Sinn und Zweck, die Verantwortlichkeiten und die Domänen der Rolle gelten alle weiterhin, jedoch nur innerhalb des Fokus der Zuweisung.
 
@@ -144,8 +144,8 @@ Als Partner\*in hast du gegenüber Rollen-Leads in der Organisation die Pflicht,
 - **(a) Projekte & nächste Schritte:** Du musst über Projekte und nächste Schritte, die du für die Organisation verfolgst, Auskunft erteilen.
 - **(b) Relative Priorität:** Du musst darüber Auskunft erteilen, wie du die relative Priorität jedes deiner Projekte oder nächsten Schritte im Vergleich zu allem anderen, was deiner Aufmerksamkeit bedarf, beurteilst.
 - **(c) Voraussagen:** Du musst eine Voraussage darüber geben, wann du erwartest, eines der Projekte oder einen der nächsten Schritte abzuschließen. Eine grobe Schätzung unter Einbezug deines aktuellen Kontextes und deiner Prioritäten ist ausreichend. Eine detaillierte Analyse oder Planung ist nicht erforderlich und diese Voraussage ist in keiner Weise eine verbindliche Zusage. Du bist nicht verpflichtet, die Voraussage weiter zu verfolgen oder den Empfänger zu informieren, falls sie sich verändert, sofern die Governance nicht etwas anderes besagt.
-- **(d) Checklisten-Einträge:** Du musst die Erledigung wiederkehrender Aktivitäten überprüfen, die du für deine Rollen oder als Partner der Organisation ausführst. Auf Anfrage musst du diese Überprüfung regelmäßig mitteilen, bis du sie als nicht länger nützlich erachtest.
-- **(e) Kennzahlen:** Du musst über Kennzahlen Auskunft geben, die du in deinen Rollen oder als Partner der Organisation erhebst. Auf Anfrage musst du diese Kennzahlen regelmäßig mitteilen, bis du sie als nicht länger nützlich erachtest.
+- **(d) Checklisten-Einträge:** Du musst die Erledigung wiederkehrender Aktivitäten überprüfen, die du für deine Rollen oder als Partner\*in der Organisation ausführst. Auf Anfrage musst du diese Überprüfung regelmäßig mitteilen, bis du sie als nicht länger nützlich erachtest.
+- **(e) Kennzahlen:** Du musst über Kennzahlen Auskunft geben, die du in deinen Rollen oder als Partner\*in der Organisation erhebst. Auf Anfrage musst du diese Kennzahlen regelmäßig mitteilen, bis du sie als nicht länger nützlich erachtest.
 - **(f) Fortschritts-Updates:** Du musst eine Zusammenfassung des Fortschritts geben, den du in deinen Rollen oder Projekten seit deinem letzten mitgeteilten Update erzielt hast. Auf Anfrage musst du diese Updates so lange regelmäßig teilen, bis du sie als nicht länger nützlich erachtest.
 - **(g) Andere Informationen:** Du musst alle anderen Informationen teilen, die dir leicht zugänglich sind und deren Mitteilung keinen Schaden verursachen würde.
 
@@ -168,9 +168,9 @@ Als Partner\*in hast du die Pflicht, nach folgenden Gesichtspunkten zu priorisie
 
 ### 2.4 Beziehungsvereinbarungen
 
-Als ein Partner\*in darfst du ***“Beziehungsvereinbarungen”*** [Relational Agreements] mit anderen Partner\*innen schließen. Dies sind Vereinbarungen darüber, wie die Partner\*innen ihre Beziehung pflegen wollen oder sie ihre generellen Funktionen als Partner\*innen der Organisation erfüllen wollen. Diese Vereinbarungen dürfen die Pflichten in diesem Artikel ergänzen oder klären, doch sie dürfen diesen nicht zuwiderlaufen.
+Als Partner\*in darfst du ***“Beziehungsvereinbarungen”*** [Relational Agreements] mit anderen Partner\*innen schließen. Dies sind Vereinbarungen darüber, wie die Partner\*innen ihre Beziehung pflegen wollen oder sie ihre generellen Funktionen als Partner\*innen der Organisation erfüllen wollen. Diese Vereinbarungen dürfen die Pflichten in diesem Artikel ergänzen oder klären, doch sie dürfen diesen nicht zuwiderlaufen.
 
-Beziehungsvereinbarungen dürfen sich nur auf die Formulierung von Verhaltensweisen konzentrieren, welche allgemein die Arbeit unterstützen. Sie dürfen weder Erwartungen über rollenbezogene Arbeit aufstellen, noch Erwartungen darüber, wie ein Partner übergreifend zwischen verschiedenen Rollen priorisieren wird. Ferner dürfen sie nur konkrete, ausführbare Handlungen, oder zu beachtende Einschränkungen des Verhaltens bestimmen. Sie dürfen keine Versprechen enthalten, bestimmte Ergebnisse zu erreichen oder abstrakte Qualitäten zu verkörpern.
+Beziehungsvereinbarungen dürfen sich nur auf die Formulierung von Verhaltensweisen konzentrieren, welche allgemein die Arbeit unterstützen. Sie dürfen weder Erwartungen über rollenbezogene Arbeit aufstellen, noch Erwartungen darüber, wie ein\*e Partner\*in  übergreifend zwischen verschiedenen Rollen priorisieren wird. Ferner dürfen sie nur konkrete, ausführbare Handlungen, oder zu beachtende Einschränkungen des Verhaltens bestimmen. Sie dürfen keine Versprechen enthalten, bestimmte Ergebnisse zu erreichen oder abstrakte Qualitäten zu verkörpern.
 
 Als Partner\*in darfst du aufgrund deiner eigenen persönlichen Präferenzen, oder um deiner Rolle zu dienen, eine Beziehungsvereinbarung von anderen Partner\*innen anfragen. Diese Partner\*innen dürfen die angefragte Beziehungsvereinbarung auf der Basis ihrer eigenen persönlichen Präferenzen annehmen oder ablehnen. Jede Partei darf die Vereinbarung später beenden, indem sie die jeweils andere Partei darüber in Kenntnis setzt, sofern es nicht anders vereinbart wurde.
 
@@ -178,7 +178,7 @@ Als Partner\*in hast du die Pflicht, dich in deinem Verhalten nach allen auf die
 
 ## Artikel 3: Tactical Meetings
 
-Jede\*r Partner\*in darf ein ***“Tactical Meeting”*** einberufen, um Partner dabei zu unterstützen einander in ihren Verantwortlichkeiten und Pflichten in Anspruch zu nehmen. Zusätzlich ist die Rolle Kreis-Sekretär\*in jedes Kreises dafür zuständig, reguläre Tactical Meetings für den Kreis anzusetzen.
+Jede\*r Partner\*in darf ein ***“Tactical Meeting”*** einberufen, um Partner\*innen dabei zu unterstützen, einander in ihren Verantwortlichkeiten und Pflichten in Anspruch zu nehmen. Zusätzlich ist die Rolle Kreis-Sekretär\*in jedes Kreises dafür zuständig, reguläre Tactical Meetings für den Kreis anzusetzen.
 
 ### 3.1 Teilnahme
 
@@ -245,7 +245,7 @@ Du darfst bei dem\*der Kreis-Sekretär\*in jedes Super-Kreises Berufung gegen di
 
 #### 4.2.2 Ungültige Governance streichen
 
-Jede\*r Partner\*in darf die Rolle Kreis-Sekretär\*in eines Kreises anfragen, über die Gültigkeit der Governance innerhalb dieses Kreises oder irgendeines seiner Sub-Kreises zu urteilen. Falls der\*die Kreis-Sekretär\*in zu dem Schluss kommt, dass sie die Regeln dieser Verfassung verletzt, muss er\*sie diese aus den Aufzeichnungen des Kreises streichen. Danach muss er\*sie allen Partner/*innen, die Rollen in diesem Kreis ausüben, umgehend mitteilen, was er*sie gestrichen hat und warum.
+Jede\*r Partner\*in darf die Rolle Kreis-Sekretär\*in eines Kreises anfragen, über die Gültigkeit der Governance innerhalb dieses Kreises oder irgendeines seiner Sub-Kreises zu urteilen. Falls der\*die Kreis-Sekretär\*in zu dem Schluss kommt, dass sie die Regeln dieser Verfassung verletzt, muss er\*sie diese aus den Aufzeichnungen des Kreises streichen. Danach muss er\*sie allen Partner/*innen, die Rollen in diesem Kreis ausüben, umgehend mitteilen, was er\*sie gestrichen hat und warum.
 
 ### 4.3 Individuelle Initiative
 
@@ -364,7 +364,7 @@ Wenn ein Einwand geltend gemacht wird, weil die Annahme des Vorschlags diese Ver
 
 #### 5.3.4 Regeln der Integration
 
-Beim Versuch einen Einwand aufzulösen gelten die folgenden Regeln:
+Beim Versuch einen Einwand aufzulösen, gelten die folgenden Regeln:
 
 - **(a)** Der\*Die Prozessmoderator\*in muss einen Einwand testen, falls ein Kreismitglied dies anfragt. Wenn der Einwand die erforderlichen Kriterien nicht erfüllt, dann muss der\*die Prozessmoderator\*in ihn verwerfen.
 - **(b)** Der\*Die Einwendende muss versuchen, eine Anpassung des Vorschlags zu finden, die den Einwand auflöst und immer noch die Spannung des\*der Vorschlagenden adressiert. Falls der\*die Prozessmoderator\*in glaubt, dass der\*die Einwendende keinen ernstgemeinten Versuch unternimmt, dies zu tun, dann muss der\*die Prozessmoderator\*in den Einwand als aufgegeben betrachten und ihn fallen lassen.
