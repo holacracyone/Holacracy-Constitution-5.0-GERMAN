@@ -1,7 +1,7 @@
 Erklärung der Annahme der Verfassung
 =================================
 
-Der*die unten genannten Ratifizierende*n nehmen hiermit die folgenden Sektionen der Holacracy Verfassung v5.0 als Rahmen für die Governance und den operativen Betrieb für  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (die “Organisation”) an:
+Der\*die unten genannten Ratifizierende\*n nehmen hiermit die folgenden Sektionen der Holacracy Verfassung v5.0 als Rahmen für die Governance und den operativen Betrieb für  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (die “Organisation”) an:
 
 #### [ X ] Artikel 1: Organisationsstruktur
 
@@ -17,12 +17,12 @@ Der*die unten genannten Ratifizierende*n nehmen hiermit die folgenden Sektionen 
 
 #### [\_\_] Artikel 4: Verteilte Befugnis
 
-- Wenn dieser Artikel nicht angenommen wird, dann müssen die Rollen-Leads alle ihre Handlungen und Entscheidungen an Weisungen oder Anordnungen ausrichten, die von einem\*r Kreis-Lead ihres Kreises oder irgendeines umfassenderen Kreises gegeben werden, es sei denn, es wird durch eine*n Kreis-Lead eines umfassenderen Kreises oder durch die Ratifizierenden anders spezifiziert.
+- Wenn dieser Artikel nicht angenommen wird, dann müssen die Rollen-Leads alle ihre Handlungen und Entscheidungen an Weisungen oder Anordnungen ausrichten, die von einem\*r Kreis-Lead ihres Kreises oder irgendeines umfassenderen Kreises gegeben werden, es sei denn, es wird durch eine\*n Kreis-Lead eines umfassenderen Kreises oder durch die Ratifizierenden anders spezifiziert.
 
 
 #### [\_\_] Artikel 5: Governance Prozess
 
-- Wenn dieser Artikel nicht angenommen wird, dann dürfen ausschließlich die Kreis-Leads die Governance innerhalb ihres Kreises jederzeit anpassen, oder anderen erlauben, es zu tun, und jegliche Auslegungskonflikte der Governance ihres Kreises auflösen, es sei denn, es wird durch eine*n Kreis-Lead eines umfassenderen Kreises oder durch die Ratifizierenden anders spezifiziert.
+- Wenn dieser Artikel nicht angenommen wird, dann dürfen ausschließlich die Kreis-Leads die Governance innerhalb ihres Kreises jederzeit anpassen, oder anderen erlauben, es zu tun, und jegliche Auslegungskonflikte der Governance ihres Kreises auflösen, es sei denn, es wird durch eine\*n Kreis-Lead eines umfassenderen Kreises oder durch die Ratifizierenden anders spezifiziert.
 
 ---
 
