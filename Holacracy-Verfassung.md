@@ -74,7 +74,7 @@ Einer Rolle eine Domäne zu überlassen, delegiert keinerlei Rechte, die der Kre
 
 #### 1.3.3 Anker-Kreis
 
-Der umfassendste Kreis, der den Sinn und Zweck der gesamten Organisation zum Ausdruck bringt, ist ihr ***"Anker-Kreis"***. Der Anker-Kreis umfasst alle Befugnisse und Domänen, über welche die Organisation selbst verfügt. Er hat keinen Super-Kreis und keine Verantwortlichkeiten. Der Anker-Kreis darf seinen eigenen Sinn und Zweck durch eine Richtlinie ändern.
+Der umfassendste Kreis, der den Sinn und Zweck der gesamten Organisation zum Ausdruck bringt, ist ihr ***"Anker-Kreis"***. Der Anker-Kreis umfasst alle Befugnisse und Domänen, über welche die Organisation selbst verfügt und hat keinen Super-Kreis. Der Anker-Kreis darf mittels einer Richtlinie seinen eigenen Sinn und Zweck ändern oder seine Verantwortlichkeiten klären.
 
 Die Ratifizierenden dürfen mit der Annahme dieser Verfassung eine initiale Struktur und andere Governance innerhalb des Anker-Kreises festlegen.
 
