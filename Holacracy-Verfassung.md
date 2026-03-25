@@ -285,7 +285,7 @@ Jedes Kreismitglied eines Kreises darf jederzeit eine Wahl anfordern, um jemande
 - **(b)** Spannungen identifizieren, die zur Verarbeitung in einem umfassenderen Kreis, der den Kreis beinhaltet, geeignet sind
 - **(c)** Spannungen in einem umfassenderen Kreis verarbeiten, um Einschränkungen des Kreises zu beseitigen
 
-Der Kreis muss den integrativen Wahlprozess anwenden, der in dieser Verfassung definiert ist, um eine\*n Kreis-Rep zu wählen, sofern eine Richtlinie keinen alternativen Prozess definiert. Nur die Kreismitglieder des Kreises sind für seine Kreis-Rep Rolle wählbar. Es darf nicht mehr als eine Person gleichzeitig als Kreis-Rep seines\*ihres Kreises dienen, sofern nicht eine Richtlinie eines ihn beinhaltenden Kreises dies erlaubt.
+Der Kreis muss den integrativen Wahlprozess anwenden, der in dieser Verfassung definiert ist, um eine\*n Kreis-Rep zu wählen, sofern eine Richtlinie keinen alternativen Prozess definiert. Nur die Kreismitglieder des Kreises sind für seine Kreis-Rep Rolle wählbar. Wer als Kreis-Lead des Kreises dient, darf nicht auch als dessen Kreis-Rep dienen. Es darf nicht mehr als eine Person gleichzeitig als Kreis-Rep seines\*ihres Kreises dienen, sofern nicht eine Richtlinie eines ihn beinhaltenden Kreises dies erlaubt.
 
 Der\*Die gewählte Kreis-Rep wird ein Kreismitglied jedes Kreises, der diesen Kreis beinhaltet, mit der Befugnis, seinen\*ihren Kreis zu repräsentieren, genau wie ein Kreis-Lead. Ein ihn beinhaltender Kreis darf durch eine Richtlinie begrenzen oder verhindern, dass diese Kreis-Reps seine Kreismitglieder werden, doch nur falls seine Rollen einen anderen Weg haben, der eine vergleichbare Repräsentation innerhalb dieses Kreises gewährleistet.
 
